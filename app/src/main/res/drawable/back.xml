@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <shape android:shape="rectangle"
     xmlns:android="http://schemas.android.com/apk/res/android" >
@@ -10,3 +11,17 @@
 </shape>
 
 
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+     <solid
+     android:color="#B0B4CC">
+     </solid>
+<corners android:radius="50dp">
+</corners>
+</shape>
+
+
+>>>>>>> c95cebe... new
